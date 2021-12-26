@@ -3,9 +3,12 @@
     "dockerFile": "Dockerfile",
     "appPort": 3000,
     "extensions": [
-		"CoenraadS.bracket-pair-colorizer",
-		"hazer.ReactCodeSnippets",
-		"Tyriar.sort-lines"
+		"PKief.material-icon-theme",
+	    	"formulahendry.auto-rename-tag",
+	    	"abusaidm.html-snippets",
+		"dsznajder.es7-react-js-snippets",
+	    	"vscodevim.vim",
+	    	"dbaeumer.vscode-eslint"
 	],
     "settings": {
         "terminal.integrated.shell.linux": "/bin/zsh"
